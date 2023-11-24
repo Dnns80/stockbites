@@ -1,0 +1,12 @@
+requests
+nltk
+newspaper3k
+pandas
+futures
+numpy
+datetime
+packaging
+psycopg2
+openai
+memory_profiler
+python-dotenv
